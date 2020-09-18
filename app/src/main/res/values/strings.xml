@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test918</string>
+    <string name="tips">请输入摄氏温度</string>
+    <string name="test">38</string>
+    <string name="buttonText">转化为华氏温度</string>
+    <string name="ans">华氏温度温度为：</string>
+</resources>
